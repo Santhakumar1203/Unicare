@@ -254,3 +254,11 @@ body {
   .apply-box:hover {
     background-color: #003080;
   }
+
+  .pdf-link {
+  display: inline-block;
+  margin-top: 8px;
+  color: #0066cc;
+  text-decoration: underline;
+  font-weight: bold;
+}
